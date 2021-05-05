@@ -18,9 +18,6 @@ import com.google.android.material.snackbar.Snackbar;
 import com.myselfanuj.isong.R;
 import com.myselfanuj.isong.api.model.Track;
 
-/**
- * Created by Mayur on 6/26/2017.
- */
 
 public class SongDetailView extends AppCompatActivity implements SongDetailContract.View {
 
