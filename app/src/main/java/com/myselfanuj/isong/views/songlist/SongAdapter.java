@@ -20,9 +20,6 @@ import com.myselfanuj.isong.views.songdetail.SongDetailView;
 
 import java.util.List;
 
-/**
- * Created by Mayur on 6/25/2017.
- */
 
 public class SongAdapter extends RecyclerView.Adapter<SongAdapter.MyViewHolder> {
 
